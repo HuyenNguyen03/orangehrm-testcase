@@ -36,6 +36,7 @@ Expected Result
 
 
 📂 Test Data
+
 Username hợp lệ: Admin
 Password hợp lệ: admin123
 Dữ liệu không hợp lệ: sai định dạng, khoảng trắng, script injection
@@ -45,6 +46,7 @@ Trình duyệt: Chrome
 Thiết bị: Desktop
 
 📊 Result
+
 Đã thực thi kiểm thử thủ công (manual testing) cho chức năng đăng nhập
 Xác minh các test case bằng cách thao tác trực tiếp trên hệ thống
 Ghi nhận kết quả thực tế so với Expected Result
