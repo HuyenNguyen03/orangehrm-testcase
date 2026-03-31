@@ -15,6 +15,7 @@ Validation dữ liệu đầu vào
 Điều hướng (navigation)
 Session và authentication
 Xử lý lỗi và các trường hợp đặc biệt
+
 🧪 Test Coverage
 
 Dự án bao gồm 36 test case, bao phủ các loại kiểm thử:
@@ -32,6 +33,8 @@ Test Case ID
 Preconditions
 Test Steps
 Expected Result
+
+
 📂 Test Data
 Username hợp lệ: Admin
 Password hợp lệ: admin123
@@ -40,6 +43,7 @@ Dữ liệu không hợp lệ: sai định dạng, khoảng trắng, script inje
 Website: https://opensource-demo.orangehrmlive.com
 Trình duyệt: Chrome
 Thiết bị: Desktop
+
 📊 Result
 Đã thực thi kiểm thử thủ công (manual testing) cho chức năng đăng nhập
 Xác minh các test case bằng cách thao tác trực tiếp trên hệ thống
