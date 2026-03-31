@@ -21,17 +21,29 @@ Xử lý lỗi và các trường hợp đặc biệt
 Dự án bao gồm 36 test case, bao phủ các loại kiểm thử:
 
 UI Testing: layout, font, hover, tab navigation
+
 Functional Testing: login flow, redirect, link
+
 Validation Testing: empty input, invalid data, whitespace
+
 Security Testing: SQL Injection, XSS
+
 Performance Testing: spam click, response time
+
 Reliability Testing: mất kết nối mạng
+
 Authentication Testing: session, logout, refresh
+
 🛠️ Test Design
+
 Thiết kế test case với đầy đủ:
+
 Test Case ID
+
 Preconditions
+
 Test Steps
+
 Expected Result
 
 
